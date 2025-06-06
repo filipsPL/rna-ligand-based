@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data for: RNA Ligand-Based Similarity Analysis
+message: Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders..
+type: dataset
+authors:
+  - orcid: "https://orcid.org/0000-0001-5758-9416"
+    given-names: Filip Stefaniak
+    affiliation: >-
+      International Institute of Molecular and Cell
+      Biology in Warsaw, Warsaw, Poland
+    email: fstefaniak@iimcb.gov.pl
+identifiers:
+  - type: doi
+    value: xxx
+    description: Zenodo repository
+  - type: url
+    value: >-
+      https://github.com/filipsPL/rna-ligand-based
+    description: GitHub repository
+repository-code: "https://github.com/filipsPL/rna-ligand-based"
+url: "https://github.com/filipsPL/rna-ligand-based"
+abstract: >-
+  How to deal with NCN Open Access rules and GitHub repositories - **the unofficial guide**. A longer abstract can be put here.
+keywords:
+  - rna
+  - dna
+  - small molecule ligands
+  - virtual screening
+license: CC0-1.0
