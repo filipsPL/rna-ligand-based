@@ -1,0 +1,19 @@
+{
+  "license": "CC0-1.0",
+  "title": "Data for Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.",
+  "version": "0-1-1",
+  "upload_type": "dataset",
+  "publication_date": "2025-06-21",
+  "language": "eng",
+  "description": "<p><b>Data for the manuscript <i>Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.</i></p>",
+  "notes": "This research was funded in part by the National Science Centre in Poland (grant number 2020/39/B/NZ2/03127 to F.S.)",
+  "keywords": ["rna", "dna", "ligand-based virtual screening", "molecular docking", "nucleic acid binders", "small molecules"],
+  "creators": [
+    {
+      "affiliation": "International Institute of Molecular and Cell Biology in Warsaw",
+      "name": "Filip Stefaniak",
+      "orcid": "0000-0001-5758-9416"
+    }
+  ],
+  "access_right": "open"
+}
