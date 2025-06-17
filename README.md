@@ -6,6 +6,9 @@
 > Dávid Bajusz, Anita Rácz, Filip Stefaniak, *Evaluation of single-template ligand-based methods for  the discovery of small-molecule nucleic acid binders.*
 > 
 
+
+[![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151)
+
 ## Repository Structure
 
 #### 📂 `1-fingerprints/`
