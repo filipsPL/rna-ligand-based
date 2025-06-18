@@ -1,33 +1,72 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: >-
-  Data for: RNA Ligand-Based Similarity Analysis
-message: Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders..
+  Data for: Evaluation of single-template ligand-based methods 
+  for the discovery of small-molecule nucleic acid binders
+message: >-
+  Evaluation of single-template ligand-based methods for the 
+  discovery of small-molecule nucleic acid binders.
 type: dataset
 authors:
-  - orcid: "https://orcid.org/0000-0001-5758-9416"
-    given-names: Filip Stefaniak
+  - orcid: "https://orcid.org/0000-0003-4277-9481"
+    given-names: Dávid
+    family-names: Bajusz
     affiliation: >-
-      International Institute of Molecular and Cell
-      Biology in Warsaw, Warsaw, Poland
+      Medicinal Chemistry Research Group, HUN-REN Research Centre 
+      for Natural Sciences, Budapest, Hungary
+  - orcid: "https://orcid.org/0000-0003-3223-3573"
+    given-names: Anita
+    family-names: Rácz
+    affiliation: >-
+      Plasma Chemistry Research Group, HUN-REN Research Centre 
+      for Natural Sciences, Budapest, Hungary
+  - orcid: "https://orcid.org/0000-0001-5758-9416"
+    given-names: Filip
+    family-names: Stefaniak
+    affiliation: >-
+      Laboratory of Bioinformatics and Protein Engineering, 
+      International Institute of Molecular and Cell Biology 
+      in Warsaw, Warsaw, Poland
     email: fstefaniak@iimcb.gov.pl
 identifiers:
   - type: doi
-    value: xxx
+    value: 10.5281/zenodo.15683152
     description: Zenodo repository
   - type: url
     value: >-
-      https://github.com/filipsPL/rna-ligand-based
+      https://github.com/filipsPL/ligand-based-rna
     description: GitHub repository
-repository-code: "https://github.com/filipsPL/rna-ligand-based"
-url: "https://github.com/filipsPL/rna-ligand-based"
+repository-code: "https://github.com/filipsPL/ligand-based-rna"
+url: "https://github.com/filipsPL/ligand-based-rna"
 abstract: >-
-  How to deal with NCN Open Access rules and GitHub repositories - **the unofficial guide**. A longer abstract can be put here.
+  Nucleic acid molecules, including ribonucleic acid (RNA) and 
+  deoxyribonucleic acid (DNA), are essential for various biological 
+  processes and can adopt diverse three-dimensional (3D) structures 
+  that serve as potential drug targets. The direct targeting of nucleic 
+  acid structures by small molecules represents an emerging field in 
+  drug design with enormous potential for providing therapeutic options 
+  for diseases that are currently not addressed, including genetic 
+  diseases and viral infections. In the early days of this promising 
+  field, a shortage of reliable structural data presents a bottleneck 
+  to the direct adaptation of structure-based methods, making the 
+  simpler yet powerful ligand-based approach an attractive alternative 
+  for virtual screening. In this study, we thoroughly evaluate and 
+  benchmark these methods against the reported binding of small 
+  molecules to diverse nucleic acid targets, including RNA hairpins, 
+  G-quadruplexes, pseudoknots, three-way junctions, and DNA structures. 
+  Our results demonstrate that classification performance is significantly 
+  influenced by the applied descriptors, the chosen similarity measure, 
+  and the specific nucleic acid target. We have also proposed a consensus 
+  method that combines the best-performing algorithms of a distinct nature. 
+  According to our studies, this consensus approach outperforms all other 
+  tested methods, providing a valuable framework for nucleic acid-targeted 
+  drug discovery.
 keywords:
   - rna
   - dna
+  - nucleic acids
   - small molecule ligands
   - virtual screening
-license: CC0-1.0
+  - molecular fingerprints
+  - similarity
+  - ligand-based drug design
+license: CC-BY-4.0
