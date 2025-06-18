@@ -7,7 +7,7 @@
 > 
 
 
-[![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151)
+[![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151) DOI: [10.5281/zenodo.15683151](https://doi.org/10.5281/zenodo.15683151)
 
 ## Repository Structure
 
