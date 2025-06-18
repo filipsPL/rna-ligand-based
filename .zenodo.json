@@ -1,19 +1,45 @@
 {
-  "license": "CC0-1.0",
-  "title": "Data for Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.",
-  "version": "0-1-1",
+  "license": "CC-BY-4.0",
+  "title": "Data for: Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders",
+  "version": "1.0.0",
   "upload_type": "dataset",
-  "publication_date": "2025-06-21",
+  "publication_date": "2025-06-17",
   "language": "eng",
-  "description": "<p><b>Data for the manuscript <i>Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.</i></p>",
-  "notes": "This research was funded in part by the National Science Centre in Poland (grant number 2020/39/B/NZ2/03127 to F.S.)",
-  "keywords": ["rna", "dna", "ligand-based virtual screening", "molecular docking", "nucleic acid binders", "small molecules"],
+  "description": "<p><b>Data for the manuscript:</b> <i>Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.</i></p><p>This dataset contains the complete results of benchmarking 16 fingerprints and 6 other single-template ligand-based virtual screening methods against a wide selection of DNA/RNA-ligand datasets. The repository includes performance metrics, statistical analyses, and code used for the evaluation of molecular fingerprints and similarity measures for nucleic acid-targeted drug discovery.</p>",
+  "notes": "This research was funded in part by the National Science Centre, Poland (grant number: 2020/39/B/NZ2/03127 to F.S.). The authors received funding from the National Research Development and Innovation Office of Hungary (contract no. FK146063 to D.B.). A.R. and D.B. were supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences. F.S. acknowledges the International Visegrad Fund for the fellowship for a short-term stay at HUN-REN RCNS (Hungary).",
+  "keywords": [
+    "rna",
+    "dna", 
+    "nucleic acids",
+    "small molecule ligands",
+    "virtual screening",
+    "molecular fingerprints",
+    "similarity",
+    "ligand-based drug design"
+  ],
   "creators": [
     {
-      "affiliation": "International Institute of Molecular and Cell Biology in Warsaw",
-      "name": "Filip Stefaniak",
+      "affiliation": "Medicinal Chemistry Research Group, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary",
+      "name": "Bajusz, Dávid",
+      "orcid": "0000-0003-4277-9481"
+    },
+    {
+      "affiliation": "Plasma Chemistry Research Group, HUN-REN Research Centre for Natural Sciences, Budapest, Hungary",
+      "name": "Rácz, Anita",
+      "orcid": "0000-0003-3223-3573"
+    },
+    {
+      "affiliation": "Laboratory of Bioinformatics and Protein Engineering, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Stefaniak, Filip",
       "orcid": "0000-0001-5758-9416"
     }
   ],
-  "access_right": "open"
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/filipsPL/ligand-based-rna",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }
