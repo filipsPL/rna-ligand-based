@@ -44,6 +44,10 @@ Plots of pooled ROC curves for selected methods and all targets
 
 Contains case studies data for Glutamine_RS.
 
+#### 📂 `6-FP3_analysis/`
+
+Contains results of FP3 fingerprint analysis. 
+
 #### 📂 `code/`
 
 Programs used to perform calculations.
