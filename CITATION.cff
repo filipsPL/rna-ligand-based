@@ -19,6 +19,14 @@ authors:
     affiliation: >-
       Plasma Chemistry Research Group, HUN-REN Research Centre 
       for Natural Sciences, Budapest, Hungary
+  - orcid: "https://orcid.org/0000-0002-6633-165X"
+    given-names: Janusz M.
+    family-names: Bujnicki
+    affiliation: >-
+      Laboratory of Bioinformatics and Protein Engineering, 
+      International Institute of Molecular and Cell Biology 
+      in Warsaw, Warsaw, Poland
+    email: janusz@iimcb.gov.pl
   - orcid: "https://orcid.org/0000-0001-5758-9416"
     given-names: Filip
     family-names: Stefaniak

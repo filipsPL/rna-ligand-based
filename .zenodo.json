@@ -6,7 +6,7 @@
   "publication_date": "2025-06-17",
   "language": "eng",
   "description": "<p><b>Data for the manuscript:</b> <i>Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders.</i></p><p>This dataset contains the complete results of benchmarking 16 fingerprints and 6 other single-template ligand-based virtual screening methods against a wide selection of DNA/RNA-ligand datasets. The repository includes performance metrics, statistical analyses, and code used for the evaluation of molecular fingerprints and similarity measures for nucleic acid-targeted drug discovery.</p>",
-  "notes": "This research was funded in part by the National Science Centre, Poland (grant number: 2020/39/B/NZ2/03127 to F.S.). The authors received funding from the National Research Development and Innovation Office of Hungary (contract no. FK146063 to D.B.). A.R. and D.B. were supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences. F.S. acknowledges the International Visegrad Fund for the fellowship for a short-term stay at HUN-REN RCNS (Hungary).",
+  "notes": "This research was funded in part by the National Science Centre, Poland (grant number: 2020/39/B/NZ2/03127 to F.S.). The authors received funding from the National Research Development and Innovation Office of Hungary (contract no. FK146063 to D.B.). A.R. and D.B. were supported by the János Bolyai Research Scholarship of the Hungarian Academy of Sciences. F.S. acknowledges the International Visegrad Fund for the fellowship for a short-term stay at HUN-REN RCNS (Hungary). J.M.B. was supported by RACE-PRIME (grant number FENG.02.01.-IP.05-T003/23)",
   "keywords": [
     "rna",
     "dna", 
@@ -28,6 +28,11 @@
       "name": "Rácz, Anita",
       "orcid": "0000-0001-8271-9841"
     },
+    {
+      "affiliation": "Laboratory of Bioinformatics and Protein Engineering, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
+      "name": "Bujnicki, Janusz M.",
+      "orcid": "0000-0002-6633-165X"
+    }
     {
       "affiliation": "Laboratory of Bioinformatics and Protein Engineering, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
       "name": "Stefaniak, Filip",
