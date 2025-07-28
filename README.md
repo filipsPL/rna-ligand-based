@@ -3,7 +3,7 @@
 > [!NOTE] 
 > This repository contains data and scripts for analyzing ligand-based similarity metrics and molecular fingerprints in the context of RNA-targeted small molecule discovery. The content is related to scientific publication
 > 
-> Dávid Bajusz, Anita Rácz, Filip Stefaniak, *Evaluation of single-template ligand-based methods for  the discovery of small-molecule nucleic acid binders.*
+> Dávid Bajusz, Anita Rácz, Janusz M. Bujnicki, and Filip Stefaniak, *Evaluation of single-template ligand-based methods for  the discovery of small-molecule nucleic acid binders.*
 > 
 
 
