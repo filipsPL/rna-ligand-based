@@ -6,8 +6,9 @@
 > Dávid Bajusz, Anita Rácz, Janusz M. Bujnicki, and Filip Stefaniak, *Evaluation of single-template ligand-based methods for  the discovery of small-molecule nucleic acid binders.*
 > 
 
-
 [![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151) DOI: [10.5281/zenodo.15683151](https://doi.org/10.5281/zenodo.15683151)
+
+![heatmap](method_interactions_heatmaps.jpg)
 
 ## Repository Structure
 
@@ -47,6 +48,14 @@ Contains case studies data for Glutamine_RS.
 #### 📂 `6-FP3_analysis/`
 
 Contains results of FP3 fingerprint analysis. 
+
+#### 📂 `7-docking/`
+
+Results of molecular docking:
+- `1-macromolecules` - nucleic acid targets used for docking
+- `1-results-sdf/` - docked poses
+- `2-scores/` - scores extracted from sdf files
+- `3-performance/` - performance metrics
 
 #### 📂 `code/`
 
