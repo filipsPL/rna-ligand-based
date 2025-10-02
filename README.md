@@ -8,6 +8,9 @@
 
 [![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151) DOI: [10.5281/zenodo.15683151](https://doi.org/10.5281/zenodo.15683151)
 
+[![CITATION.cff](https://github.com/filipsPL/rna-ligand-based/actions/workflows/cff-validator.yml/badge.svg)](https://github.com/filipsPL/rna-ligand-based/actions/workflows/cff-validator.yml)
+
+
 ![heatmap](method_interactions_heatmaps.jpg)
 
 ## Repository Structure
