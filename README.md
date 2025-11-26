@@ -1,9 +1,8 @@
 # RNA Ligand-Based Similarity Analysis
 
 > [!NOTE] 
-> This repository contains data and scripts for analyzing ligand-based similarity metrics and molecular fingerprints in the context of RNA-targeted small molecule discovery. The content is related to scientific publication
-> 
-> Dávid Bajusz, Anita Rácz, Janusz M. Bujnicki, and Filip Stefaniak, *Evaluation of single-template ligand-based methods for  the discovery of small-molecule nucleic acid binders.*
+> This repository contains data and scripts for analyzing ligand-based similarity metrics and molecular fingerprints in the context of RNA-targeted small molecule discovery. The content is related to scientific publication:
+> Bajusz, D., Rácz, A., Bujnicki, J. M., & Stefaniak, F. (2025). Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders. Briefings in Bioinformatics, 26(6), bbaf620, [https://doi.org/10.1093/bib/bbaf620](https://doi.org/10.1093/bib/bbaf620)
 > 
 
 [![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151) DOI: [10.5281/zenodo.15683151](https://doi.org/10.5281/zenodo.15683151)
@@ -67,4 +66,6 @@ Programs used to perform calculations.
 
 ## 📰 Citation
 
-If you use this repository or its data in your research, please cite the relevant publication or acknowledge the authors.
+If you use this repository or its data in your research, please cite the relevant publication or acknowledge the authors:
+
+Bajusz, D., Rácz, A., Bujnicki, J. M., & Stefaniak, F. (2025). Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders. Briefings in Bioinformatics, 26(6), bbaf620, [https://doi.org/10.1093/bib/bbaf620](https://doi.org/10.1093/bib/bbaf620)
