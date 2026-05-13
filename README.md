@@ -3,6 +3,7 @@
 > [!NOTE]
 > This repository contains data and scripts for analyzing ligand-based similarity metrics and molecular fingerprints in the context of RNA-targeted small molecule discovery. The content is related to scientific publication:
 > Bajusz, D., Rácz, A., Bujnicki, J. M., & Stefaniak, F. (2025). Evaluation of single-template ligand-based methods for the discovery of small-molecule nucleic acid binders. Briefings in Bioinformatics, 26(6), bbaf620, [https://doi.org/10.1093/bib/bbaf620](https://doi.org/10.1093/bib/bbaf620)
+> 
 > This research was funded in part by the National Science Centre in Poland (grant number 2020/39/B/NZ2/03127 to F.S.)
 
 [![DOI](https://zenodo.org/badge/997354098.svg)](https://doi.org/10.5281/zenodo.15683151) DOI: [10.5281/zenodo.15683151](https://doi.org/10.5281/zenodo.15683151)
